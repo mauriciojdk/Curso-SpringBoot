@@ -24,6 +24,11 @@ public class Car {
         this.id = id;
     }
 
+    public Car(){
+    };
+
+
+
     public String getName() {
         return name;
     }
